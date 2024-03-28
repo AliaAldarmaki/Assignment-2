@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-
+ 
 from ticket import Ticket  # Importing the Ticket class
 
 class Visitor:
