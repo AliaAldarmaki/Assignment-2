@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[12]:
-
+ 
 
 from datetime import date
 from location import Location
