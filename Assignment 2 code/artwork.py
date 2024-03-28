@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-
+ 
 # Importing the necessary module and class
 from datetime import date
 from location import Location
